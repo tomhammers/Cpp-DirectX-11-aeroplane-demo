@@ -1,7 +1,7 @@
 ## C++ and DirectX 11 Aeroplane demo with Wiimote support
 Using 'Tutorial 09 – Meshes using DXUT helper classes’ tutorial from Microsoft as a starting point, this demo has been heavily modified with an object orientated approach.
 
-![Screenshot of demo in action](screenshot.png?raw=true "Title")
+![Screenshot of demo in action](screenshot.png "Title")
 
 #### Prerequisites 
 
