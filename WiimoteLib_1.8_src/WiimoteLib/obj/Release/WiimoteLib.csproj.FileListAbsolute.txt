@@ -1,0 +1,5 @@
+E:\Programming for Entertainment Systems\WiimoteLib_1.8_src\WiimoteLib\bin\Release\WiimoteLib.dll
+E:\Programming for Entertainment Systems\WiimoteLib_1.8_src\WiimoteLib\bin\Release\WiimoteLib.pdb
+E:\Programming for Entertainment Systems\WiimoteLib_1.8_src\WiimoteLib\obj\Release\WiimoteLib.csprojResolveAssemblyReference.cache
+E:\Programming for Entertainment Systems\WiimoteLib_1.8_src\WiimoteLib\obj\Release\WiimoteLib.dll
+E:\Programming for Entertainment Systems\WiimoteLib_1.8_src\WiimoteLib\obj\Release\WiimoteLib.pdb
