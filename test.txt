@@ -1,0 +1,3 @@
+A: 70
+roll: 0
+pitch: 0
